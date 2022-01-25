@@ -10,4 +10,4 @@ The word processor looks like this 👇👇👇
 
 ![Demo](https://github.com/Chandana-23/Word-like-editor/blob/master/demo.png)
 
-Thank You.
+Thank you all.
