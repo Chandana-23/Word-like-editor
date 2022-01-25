@@ -8,6 +8,6 @@ You can see my work @ [Word Processor](https://chandana-23.github.io/Word-like-e
 
 The word processor looks like this 👇👇👇
 
-![Demo](https://github.com/Chandana-23/Word-like-editor/blob/master/Word%20like%20editor/demo.png)
+![Demo](https://github.com/Chandana-23/Word-like-editor/blob/master/demo.png)
 
 Thank You.
